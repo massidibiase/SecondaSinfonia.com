@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Livello 2" xmlns="http://www.w3.org/2000/svg" width="127.891mm" height="164.455mm" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 362.525 466.171">
+  <defs>
+    <clipPath id="d">
+      <polygon points="237.209 324.555 66.063 8.132 8.132 39.465 179.277 355.889 241.706 402.091 237.209 324.555" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width="12"/>
+    </clipPath>
+  </defs>
+  <g id="c" data-name="Livello 1">
+    <g>
+      <polygon points="265.418 14.059 110.319 14.059 110.319 54.059 248.324 54.059 322.525 131.647 322.525 426.171 59.059 426.171 59.059 158.977 19.059 158.977 19.059 466.171 362.525 466.171 362.525 115.598 265.418 14.059" fill="#1d1d1b"/>
+      <line x1="248.433" y1="413.528" x2="68.847" y2="413.528" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width="10"/>
+      <line x1="312.738" y1="386.218" x2="68.847" y2="386.218" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width="10"/>
+      <line x1="312.738" y1="357.871" x2="68.847" y2="357.871" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width="10"/>
+      <line x1="312.738" y1="329.525" x2="68.847" y2="329.525" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width="10"/>
+      <line x1="312.738" y1="301.178" x2="68.847" y2="301.178" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width="10"/>
+      <line x1="312.738" y1="272.832" x2="68.847" y2="272.832" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width="10"/>
+      <line x1="312.738" y1="244.485" x2="68.847" y2="244.485" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width="10"/>
+      <line x1="312.738" y1="216.139" x2="68.847" y2="216.139" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width="10"/>
+      <line x1="312.738" y1="187.792" x2="68.847" y2="187.792" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width="10"/>
+      <g>
+        <polygon points="8.132 39.465 66.063 8.132 237.209 324.555 240.109 374.548 214.547 381.991 179.277 355.889 8.132 39.465" fill="#fff"/>
+        <g>
+          <g>
+            <g clip-path="url(#d)" fill="none">
+              <polygon points="179.277 355.889 237.209 324.555 241.706 402.091 179.277 355.889" fill="#1d1d1b"/>
+            </g>
+            <polygon points="237.209 324.555 66.063 8.132 8.132 39.465 179.277 355.889 241.706 402.091 237.209 324.555" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width="12"/>
+          </g>
+          <g>
+            <rect x="107.849" y="8.724" width="7.527" height="377.579" transform="translate(-80.526 76.883) rotate(-28.408)" fill="#1d1d1b"/>
+            <rect x="122.892" y=".588" width="7.527" height="377.579" transform="translate(-74.844 83.06) rotate(-28.408)" fill="#1d1d1b"/>
+            <rect x="137.933" y="-7.548" width="7.527" height="377.579" transform="translate(-69.162 89.236) rotate(-28.408)" fill="#1d1d1b"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

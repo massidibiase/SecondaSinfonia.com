@@ -1,0 +1,122 @@
+.revisor-img-product {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: cover;
+    width: 100%;
+    height: 400px;
+}
+
+.content-img{
+    border-radius: 20px;
+    border: 2px solid var(--details);
+    margin-bottom: 20px;
+}
+
+.personal-justify{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.item-txt {
+    color: var(--primary);
+    text-align: center;
+}
+
+.revisor-txt {
+    color: var(--primary);
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.revisor-txt-min {
+    color: var(--primary);
+    text-align: center;
+    font-size: 13px;
+    line-height: 1;
+}
+
+.btn-accept {
+    background-color: var(--secondary);
+    color: #fff;
+    border: transparent 2px solid;
+    border-radius: 10px;
+    padding: 10px 20px;
+    transition: all 0.2s;
+}
+
+.btn-accept:hover {
+    background-color: #fff;
+    color: var(--secondary);
+    border: var(--secondary) 2px solid;
+}
+
+.btn-reject {
+    background-color: var(--other);
+    color: #fff;
+    border: transparent 2px solid;
+    border-radius: 10px;
+    padding: 10px 20px;
+    transition: all 0.2s;
+}
+
+.btn-reject:hover {
+    background-color: #fff;
+    color: var(--other);
+    border: var(--other) 2px solid;
+}
+
+.btn-cancel {
+    background-color: var(--details);
+    color: #fff;
+    border: transparent 2px solid;
+    border-radius: 10px;
+    padding: 10px 20px;
+    transition: all 0.2s;
+}
+
+.btn-cancel:hover {
+    background-color: #fff;
+    color: var(--details);
+    border: var(--details) 2px solid;
+}
+
+.notice-no-ins{
+    background-color: var(--details);
+    color: #fff;
+    border: transparent 2px solid;
+    border-radius: 10px;
+    padding: 10px 20px;
+    transition: all 0.2s;
+    margin-bottom: 20px;
+}
+
+hr {
+    border: 2px solid var(--primary);
+    border-radius: 10px;
+}
+
+.msg-revisor {
+    background-color: var(--details);
+    color: #fff;
+    border: transparent 3px solid;
+    border-radius: 8px;
+    padding: 10px 20px;
+    transition: all 0.2s;
+}
+
+.btn-new {
+    background-color: var(--secondary);
+    color: #fff;
+    border: transparent 2px solid;
+    border-radius: 10px;
+    padding: 10px 20px;
+    transition: all 0.2s;
+}
+
+.btn-new:hover {
+    background-color: #fff;
+    color: var(--secondary);
+    border: var(--secondary) 2px solid;
+}

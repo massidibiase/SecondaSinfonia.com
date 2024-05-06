@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Livello 2" xmlns="http://www.w3.org/2000/svg" width="118.647mm" height="110.815mm" viewBox="0 0 336.322 314.121">
+  <g id="c" data-name="Livello 1">
+    <path d="m0,0v314.121h336.322V0H0Zm42.74,271.381V42.74h250.842v228.641H42.74Z" fill="#1d1d1b"/>
+    <g>
+      <rect x="70.092" y="84.546" width="196.138" height="20" fill="#1d1d1b"/>
+      <rect x="70.092" y="147.06" width="196.138" height="20" fill="#1d1d1b"/>
+      <rect x="70.092" y="209.575" width="196.138" height="20" fill="#1d1d1b"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,72 @@
+/* Variabili di colore */
+:root {
+    --primary: #5C4B51; /* Colore primario */
+    --secondary: #8CBEB2; /* Colore secondario */
+    --accent: #F2EBBF; /* Colore di accentuazione */
+    --details: #F3B562; /* Colore dei dettagli */
+    --other: #F06060; /* Altro colore */
+}
+
+/* Stili di sfondo */
+.background-primary {
+    background-color: var(--primary);
+    /* Colore di sfondo utilizzando la variabile primaria */
+}
+
+.background-secondary {
+    background-color: var(--secondary);
+    /* Colore di sfondo utilizzando la variabile secondaria */
+}
+
+.background-accent {
+    background-color: var(--accent);
+    /* Colore di sfondo utilizzando la variabile di accentuazione */
+}
+
+.background-details {
+    background-color: var(--details);
+    /* Colore di sfondo utilizzando la variabile dei dettagli */
+}
+
+.background-other {
+    background-color: var(--other);
+    /* Colore di sfondo utilizzando l'altro colore */
+}
+
+/* Stili del colore del testo */
+.primary {
+    color: var(--primary);
+    /* Colore del testo utilizzando la variabile primaria */
+}
+
+.secondary {
+    color: var(--secondary);
+    /* Colore del testo utilizzando la variabile secondaria */
+}
+
+.accent {
+    color: var(--accent);
+    /* Colore del testo utilizzando la variabile di accentuazione */
+}
+
+.details {
+    color: var(--details);
+    /* Colore del testo utilizzando la variabile dei dettagli */
+}
+
+.other {
+    color: var(--other);
+    /* Colore del testo utilizzando l'altro colore */
+}
+
+.ftxt {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: var(--primary); /* Colore dell'intestazione utilizzando la variabile primaria */
+    text-align: center;
+}
+
+.footer-personal {
+    margin-top: 40px;
+}

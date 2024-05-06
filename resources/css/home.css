@@ -1,0 +1,27 @@
+.img-home{
+    width: 100%;
+    height: 100%;
+    padding-bottom: 50px;
+    background-position: center;
+    background-size: cover;
+    z-index: -1;
+}
+
+.txt-position-home{
+    position: absolute;
+    top: 25%;
+    left: 5;
+    text-align: left;
+    width: 32%;
+}
+
+.txt-home{
+    font-family: 'Merriweather', serif;
+    color: var(--primary);
+    font-size: 60px;
+    
+}
+
+.only-txt-home{
+   max-width: 600px;
+}

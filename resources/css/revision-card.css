@@ -1,0 +1,14 @@
+.revision-card{
+    display: flex;
+    justify-content: center;
+}
+
+.revision{
+    height: 300px;
+    width: 600px; 
+    border: 1px solid black;   
+}
+
+.revision::-webkit-scrollbar{
+    width:12px;
+}

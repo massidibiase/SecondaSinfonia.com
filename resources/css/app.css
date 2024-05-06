@@ -1,0 +1,16 @@
+@import 'bootstrap';
+@import 'style.css';
+@import 'category-card.css';
+@import 'revision-card.css';
+@import 'footer.css';
+@import 'product-card.css';
+@import 'form.css';
+@import 'insertion.css';
+@import 'home.css';
+@import 'revisor.css';
+@import 'single-product.css';
+@import '@fortawesome/fontawesome-free/css/fontawesome.css';
+@import '@fortawesome/fontawesome-free/css/regular.css';
+@import '@fortawesome/fontawesome-free/css/solid.css';
+@import '@fortawesome/fontawesome-free/css/brands.css'; 
+@import 'flag-icon-css/css/flag-icons.css'; 
